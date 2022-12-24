@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1610218127 source:d:\programy\programisterzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"f_wygladu.h"
+	"menu.h"
+	"gra.h"
+	"ranking.h"
+	"dodaj_pytania.h"
+	"autorzy.h"
+	"zakoncz.h"
+
+1609345497 d:\programy\programisterzy\logo.h
+
+1609372697 d:\programy\programisterzy\lista.h
+
+1610061078 d:\programy\programisterzy\zakoncz.h
+
+1609350906 d:\programy\programisterzy\czysc.h
+
+1610226576 d:\programy\programisterzy\autorzy.h
+
+1610226662 d:\programy\programisterzy\dodaj_pytania.h
+
+1610226785 d:\programy\programisterzy\gra.h
+	"funkcje_kol_ratunkowych.h"
+
+1610047659 d:\programy\programisterzy\f_wygladu.h
+
+1610060902 d:\programy\programisterzy\menu.h
+
+1610226823 d:\programy\programisterzy\ranking.h
+
+1609531840 d:\programy\programisterzy\pobierz_znak.h
+
+1610219116 d:\programy\programisterzy\funkcje_kol_ratunkowych.h
+
+1610218127 source:c:\users\magda\desktop\programisterzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"f_wygladu.h"
+	"menu.h"
+	"gra.h"
+	"ranking.h"
+	"dodaj_pytania.h"
+	"autorzy.h"
+	"zakoncz.h"
+
+1610047659 c:\users\magda\desktop\programisterzy\f_wygladu.h
+
+1610060902 c:\users\magda\desktop\programisterzy\menu.h
+
+1610071303 c:\users\magda\desktop\programisterzy\gra.h
+	"funkcje_kol_ratunkowych.h"
+
+1610219116 c:\users\magda\desktop\programisterzy\funkcje_kol_ratunkowych.h
+
+1610219341 c:\users\magda\desktop\programisterzy\ranking.h
+
+1610060056 c:\users\magda\desktop\programisterzy\dodaj_pytania.h
+
+1610046575 c:\users\magda\desktop\programisterzy\autorzy.h
+
+1610061078 c:\users\magda\desktop\programisterzy\zakoncz.h
+
